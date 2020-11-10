@@ -30,7 +30,7 @@ And I am very interested in **Machine learning** and **Deep learning**.
 <br>
 
 ### :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soonyoun93.kim@gmail.com)](mailto:soonyoun93.kim@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soonyoung93.kim@gmail.com)](mailto:soonyoung93.kim@gmail.com) 
 
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harim-kang-1bb974179)](https://www.linkedin.com/in/harim-kang-1bb974179)
