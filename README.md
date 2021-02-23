@@ -29,8 +29,7 @@ And I am very interested in **Machine learning** and **Deep learning**.
 
 <br>
 
-### :mailbox_with_mail: Contacts
-📫 How to reach me: tnsdud3506@naver.com
+### :mailbox_with_mail: Contacts : tnsdud3506@naver.com
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harim-kang-1bb974179)](https://www.linkedin.com/in/harim-kang-1bb974179)
 -->
