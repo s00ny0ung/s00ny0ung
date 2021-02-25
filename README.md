@@ -12,8 +12,6 @@ And I am very interested in **Machine learning** and **Deep learning**.
 | **:office:Employment** | 2016. 08 ~ 2019. 04 | Experienced Database Engineer|
 | **👩‍💻 Education** | 2020. 06 ~ 2020. 12| [Encore Academy](https://playdata.io/) - Human Pose Estimation via AI |
 
-<br>
-
 <details>
  <summary>🛠 Languages and Tools</summary>
 <div markdown="1">
