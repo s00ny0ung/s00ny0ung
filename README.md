@@ -4,14 +4,23 @@ My major is **computer science📚**, and I have been studying **programming lan
 I have project experience using Python, Java, Spring, SpringBoot, HTML, SQL languages. 
 And I am very interested in **Machine learning** and **Deep learning**.
 
+### 🗂 [Soonyoung's Portfolio](https://s00ny0ung.github.io/s00ny0ung_studyfolio)              👈click
+
 ### :purple_heart: Career
 | **Type** | **Date** | **Contents** |
 |:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2012. 03 ~ 2016. 08 | Bachelor of Computer Science|
 | **:office:Employment** | 2016. 08 ~ 2019. 04 | Experienced Database Engineer|
 | **👩‍💻 Education** | 2020. 06 ~ 2020. 12| [Encore Academy](https://playdata.io/) - Human Pose Estimation via AI |
-### 🗂 [Portfolio](https://s00ny0ung.github.io/s00ny0ung_studyfolio)
-### 🛠 Languages and Tools
+
+<br>
+
+
+
+<details>
+ <summary>🛠 Languages and Tools</summary>
+<div markdown="1">
+
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -27,6 +36,11 @@ And I am very interested in **Machine learning** and **Deep learning**.
 <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" alt="spring-boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"><br>
 
+</div>
+</details>
+
+
+<br>
 #### :mailbox_with_mail: Contact : tnsdud3506@naver.com
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harim-kang-1bb974179)](https://www.linkedin.com/in/harim-kang-1bb974179)
