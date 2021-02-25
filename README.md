@@ -1,11 +1,11 @@
-:wave: Hello My name is Soonyoung Kim.<br>
+Hello My name is Soonyoung Kim.<br>
 
 My major is **computer science📚**, and I have been studying **programming languages💻** since 2012.
 I have project experience using Python, Java, Spring, SpringBoot, HTML, SQL languages. 
 And I am very interested in **Machine learning** and **Deep learning**.
 
 ### 🗂 [Soonyoung's Portfolio](https://s00ny0ung.github.io/s00ny0ung_studyfolio)
-### Career
+#### Career
 | **Type** | **Date** | **Contents** |
 |:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2012. 03 ~ 2016. 08 | Bachelor of Computer Science|
@@ -13,7 +13,7 @@ And I am very interested in **Machine learning** and **Deep learning**.
 | **👩‍💻 Education** | 2020. 06 ~ 2020. 12| [Encore Academy](https://playdata.io/) - Human Pose Estimation via AI |
 
 <details>
-<summary>🛠 Languages and Tools</summary>
+<summary> Languages and Tools</summary>
 <div markdown="1">
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -35,7 +35,7 @@ And I am very interested in **Machine learning** and **Deep learning**.
 </details>
 
 
-#### :mailbox_with_mail: Contact : tnsdud3506@naver.com
+#### Contact : tnsdud3506@naver.com
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harim-kang-1bb974179)](https://www.linkedin.com/in/harim-kang-1bb974179)
 -->
