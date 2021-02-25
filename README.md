@@ -4,8 +4,7 @@ My major is **computer science📚**, and I have been studying **programming lan
 I have project experience using Python, Java, Spring, SpringBoot, HTML, SQL languages. 
 And I am very interested in **Machine learning** and **Deep learning**.
 
-### 🗂 [Soonyoung's Portfolio](https://s00ny0ung.github.io/s00ny0ung_studyfolio)              👈click
-
+### 🗂 [Soonyoung's Portfolio](https://s00ny0ung.github.io/s00ny0ung_studyfolio)
 ### :purple_heart: Career
 | **Type** | **Date** | **Contents** |
 |:--------:|:--------:|:--------:|
@@ -14,8 +13,6 @@ And I am very interested in **Machine learning** and **Deep learning**.
 | **👩‍💻 Education** | 2020. 06 ~ 2020. 12| [Encore Academy](https://playdata.io/) - Human Pose Estimation via AI |
 
 <br>
-
-
 
 <details>
  <summary>🛠 Languages and Tools</summary>
