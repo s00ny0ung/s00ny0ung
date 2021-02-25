@@ -8,9 +8,9 @@ And I am very interested in **Machine learning** and **Deep learning**.
 ### :purple_heart: Career
 | **Type** | **Date** | **Contents** |
 |:--------:|:--------:|:--------:|
-| **:mortar_board: Education** | 2012. 03 ~ 2016. 08 | Bachelor of Computer Science|
-| **:office:Employment** | 2016. 08 ~ 2019. 04 | Experienced Database Engineer|
-| **👩‍💻 Education** | 2020. 06 ~ 2020. 12| [Encore Academy](https://playdata.io/) - Human Pose Estimation via AI |
+| **Education** | 2012. 03 ~ 2016. 08 | Bachelor of Computer Science|
+| **Employment** | 2016. 08 ~ 2019. 04 | Experienced Database Engineer|
+| **Education** | 2020. 06 ~ 2020. 12| [Encore Academy](https://playdata.io/) - Human Pose Estimation via AI |
 
 <details>
 <summary>🛠 Languages and Tools</summary>
